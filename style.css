@@ -153,7 +153,7 @@ img {
 }
 .intro-button {
 	width: 155px;
-	height: 50px;
+	height: 55px;
 	border: 2px solid #a63ea1;
 	border-radius: 20px;
 	background-color: transparent;
@@ -174,7 +174,7 @@ img {
 }
 .info-number {
 	color: white;
-	font-weight: 500;
+	font-weight: 400;
 	font-size: 45px;
 	line-height: 78px;
 }
